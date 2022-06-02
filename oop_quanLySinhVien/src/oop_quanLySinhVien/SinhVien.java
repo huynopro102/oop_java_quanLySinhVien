@@ -1,6 +1,6 @@
 package oop_quanLySinhVien;
 
-import java.util.Objects;
+
 
 public class SinhVien {
 	private String maSoSinhVien;
